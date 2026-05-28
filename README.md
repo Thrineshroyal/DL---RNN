@@ -195,8 +195,8 @@ print(f'Actual Price: {actual_prices[-1]}')
 
 
 ## True Stock Price, Predicted Stock Price vs time
+<img width="822" height="632" alt="image" src="https://github.com/user-attachments/assets/a579656c-12ae-450a-82a0-155c383ac384" />
 
-<img width="757" height="497" alt="image" src="https://github.com/user-attachments/assets/c5143ba7-2932-4849-bd11-f1f6842610f9" />
 
 
 
